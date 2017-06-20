@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kuizu Application</string>
+    <string name="title">Quiz Game</string>
+    <string name="select">難易度選択</string>
+    <string-array name="level">
+        <item>easy</item>
+        <item>normal</item>
+        <item>hard</item>
+    </string-array>
+    <string-array name="number">
+        <item>Number 1</item>
+        <item>Number 2</item>
+        <item>Number 3</item>
+        <item>Number 4</item>
+    </string-array>
+    <string-array name="questionEasy">
+        <item>
+            1928年に、抗生物質ペニシリンが発見されたカビは？
+        </item>
+        <item>
+            1960年代に、開発されて現在でもIBM社の「System i」などで使用されているプログラム言語は？
+        </item>
+        <item>
+            1桁の素数をすべて足すといくつになる？
+        </item>
+        <item>
+            2012年に、京都大学の望月新一教授が発表したのは、数学上の未解決問題である何を解いたとされる論文？
+        </item>
+    </string-array>
+    <string-array name="questionNormal">
+        <item>
+            平方根の覚え方で「一夜一夜に人見頃」と覚えるのはルート2ですが、「富士山麓オウム鳴く」と覚えるのは何？
+        </item>
+        <item>
+            作業の流れを示すフローチャートで、「判断」を表す図形は何？
+        </item>
+        <item>
+            一般に酸性雨とはpHいくつ以下の雨のこと？
+        </item>
+        <item>
+            ヤード・ポンド法の長さの単位で1ヤードといえば3フィートにあたりますが、1フィートといえば何インチにあたる？
+        </item>
+    </string-array>
+    <string-array name="questionHard">
+        <item>
+            「半導体に集積されるトランジスタの数は24ヵ月で倍増する」という考え方を何という？
+        </item>
+        <item>
+            すべり台やローラーコースターはどんな原理を使った道具？
+        </item>
+        <item>
+            アインシュタインがノーベル物理学賞を受賞した研究は何？
+        </item>
+        <item>
+            スペースシャトルのアトランティスが退役後に展示されている場所はケネディ宇宙センターですが、2012年10月よりエンデバーが展示されているのは？
+        </item>
+    </string-array>
+    <string-array name="answerEasy1">
+        <item>黒カビ</item>
+        <item>ACT</item>
+        <item>17</item>
+        <item>ホッジ予想</item>
+    </string-array>
+    <string-array name="answerEasy2">
+        <item>赤カビ</item>
+        <item>SLG</item>
+        <item>15</item>
+        <item>ABC予想</item>
+    </string-array>
+    <string-array name="answerEasy3">
+        <item>青カビ</item>
+        <item>RPG</item>
+        <item>19</item>
+        <item>BSD予想</item>
+    </string-array>
+    <string-array name="answerEasy4">
+        <item>黄カビ</item>
+        <item>AVG</item>
+        <item>13</item>
+        <item>リーマン予想</item>
+    </string-array>
+    <string-array name="answerNormal1">
+        <item>ルート2</item>
+        <item>ひし形</item>
+        <item>5.4</item>
+        <item>18</item>
+    </string-array>
+    <string-array name="answerNormal2">
+        <item>ルート5</item>
+        <item>台形</item>
+        <item>5.6</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="answerNormal3">
+        <item>ルート8</item>
+        <item>長方形</item>
+        <item>5.8</item>
+        <item>36</item>
+    </string-array>
+    <string-array name="answerNormal4">
+        <item>ルート7</item>
+        <item>楕円</item>
+        <item>6.0</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="answerHard1">
+        <item>グロッシュの法則</item>
+        <item>作用・反作用の法則</item>
+        <item>ブラウン運動</item>
+        <item>カリフォルニア科学センター</item>
+    </string-array>
+    <string-array name="answerHard2">
+        <item>ムーアの法則</item>
+        <item>フックの法則</item>
+        <item>特殊相対性理論</item>
+        <item>アメリカ国立航空宇宙博物館・別館</item>
+    </string-array>
+    <string-array name="answerHard3">
+        <item>ギルダーの法則</item>
+        <item>力学的エネルギーの保存則</item>
+        <item>一般相対性理論</item>
+        <item>ケネディ宇宙センター</item>
+    </string-array>
+    <string-array name="answerHard4">
+        <item>メトカーフの法則</item>
+        <item>質量保存の法則</item>
+        <item>光電効果</item>
+        <item>イントレピッド海上航空宇宙博物館</item>
+    </string-array>
+</resources>
